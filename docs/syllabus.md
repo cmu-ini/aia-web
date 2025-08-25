@@ -11,7 +11,7 @@ _Fall 2025_
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Instructors**          | Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)></br> Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)> |
-| **Teaching Assistant**   | Pavan Kashyap [pavanram@andrew.cmu.edu](mailto:pavanram@andrew.cmu.edu)                                                   |
+| **Teaching Assistant**   | Pavan R. Kashyap <[pavanram@andrew.cmu.edu](mailto:pavanram@andrew.cmu.edu)>                                              |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
