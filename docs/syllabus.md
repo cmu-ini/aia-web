@@ -11,7 +11,7 @@ _Fall 2025_
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Instructors**          | Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)></br> Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)> |
-| **Teaching Assistant**   | Pavan Kashyap [pavanram@andrew.cmu.edu](mailto:pavanram@andrew.cmu.edu)                                                   |
+| **Teaching Assistant**   | Pavan Kashyap <[pavanram@andrew.cmu.edu](mailto:pavanram@andrew.cmu.edu)>                                                   |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
@@ -184,8 +184,8 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | _FALL BREAK_        | _Oct 14_ | _No class_                                                      |                                                         |
 | **8** (Herr, Kaar)  | Oct 21   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
 | **9** (Herr, Kaar)  | Oct 28   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10**              | _Nov 4_  | _<span id="v2" class="red">No class &mdash;</span> [Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)_<br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
-| **11** (Kashyap)    | Nov 11   | <span class="red">TA Lecture&mdash;Topic TBD</span>             | **Exercise:** Operation Aurora Part 2                   |
+| **10**              | _Nov 4_  | _NO CLASS &mdash; [DEMOCRACY DAY](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)_<br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
+| **11** (Kashyap)    | Nov 11   | TA Lecture&mdash;Topic TBD             | **Exercise:** Operation Aurora Part 2                   |
 | **12**              | Nov 18   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
 | **13**              | Nov 25   | Group Project Presentations                                     | **HW11:** Group project labs                            |
 | **14**              | Dec 2    | Group Project Presentations                                     | **HW12:** Group project labs                            |
