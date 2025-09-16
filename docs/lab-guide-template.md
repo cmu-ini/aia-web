@@ -9,7 +9,10 @@ You will write a lab document as part of the [AIA Group Project](syllabus/#group
 *by: The IMF (Ethan Hunt, Ilsa Faust, Luther Stickell, and Benji Dunn)*
 
 ```markdown
-<!-- Of course, replace this sample text with your title and team members. -->
+<!-- Of course, replace this sample text with your title and team members.
+
+     Also, change the title to a # heading. The current markup (##) is to
+     allow MkDocs to generate a table of contents. -->
 ```
 
 Start with an overview of your lab. Introduce the topic and explain why it is relevant, useful, and/or applicable to the course topics.
@@ -82,9 +85,10 @@ See the end of this template for [more examples of callouts and in-line symbols]
 ## Phase/Section 1: First Phase/Section of the Lab
 
 ```markdown
-<!-- Phases or sections signify the major tasks you expect the student to complete
-     or the major milestones you expect them to reach. Phases or sections can be
-     further made up of subsections that signify minor tasks with multiple steps each. -->
+<!-- Phases or sections signify the major tasks you expect the student to
+     complete or the major milestones you expect them to reach. Phases or
+     sections can be further made up of subsections that signify minor
+     tasks with multiple steps each. -->
 ```
 
 ### Phase/Section 1 Introduction
@@ -104,27 +108,30 @@ For example:
 1. Write your step-by-step instructions using numbered lists to show step-by-step actions.
     - Use a `-` to indicate a sub-step or explanation of the numbered step.
 
-2. Open `Kali`, then open Firefox using the Desktop shortcut.
+2. Open the Ubuntu VM, then launch **Firefox** using the Desktop shortcut.
     - The Firefox icon is located to the left.
 
-3. (**Kali**, **Firefox**) Navigate to the market site at `https://mywebsite.local` and logon with credentials `student|tartans`.
+3. (**Ubuntu**) Navigate to the market site at `https://mywebsite.local` and logon with credentials `student|tartans`.
 
-```markdown
-<!-- This a great place to include a screenshot of the webpage. The screenshot
-     helps the student confirm they are looking at the correct item. -->
-```
+    ![Market Site browser screenshot](assets/market-site.png)
 
-The webpage displays items for sale from the fictitious company.  `Not an action, so it does not get a number. It's just describing the expected result.`
+    ```markdown
+    <!-- This a great place to include a screenshot of the webpage. The screenshot
+         helps the student confirm they are looking at the correct item. -->
+    ```
 
-4. (**Kali**, **Firefox**, **Market Web Site**) Find the item named "Widget A", add it your cart, and then click the "Checkout" button.
+    The webpage displays items for sale from the fictitious company.  `Not an action, so it does not get a number. It's just describing the expected result.`
+
+4. (**Ubuntu**) Find the item named "Carrots" add it your cart, and then click the **Checkout** button.
+
+    ![Market Site logged in](assets/market-site-logged-in.png)
 
 Next, you will open the web developer tools to manipulate the number of items in your cart by sending a POST to the page.
 
 ```markdown
-<!-- Tell the student where they are supposed to be to make things more clear.
-     In step 3, `Kali` is the machine/template name for the VM console and
-     `Firefox` is the application they are working in. In step 4, we add the
-     additional context of the website they are working in for this step. -->
+<!-- Sometimes it is helpful to communicate which machine or terminal session
+     should be used for certain steps. These can be annotated in each step
+     inside parentheses like steps 3-4 above. -->
 ```
 
 ### The Second Task of Phase/Section 1
@@ -136,7 +143,7 @@ Please provide a description of what the student is expected to complete next in
      For example: -->
 ```
 
-1. (**Windows**, **Notepad**) Create an empty notepad file with the following contents and save it to the Desktop with the name `powershell-script.ps1`.
+1. (**Windows**) Create an empty notepad file with the following contents and save it to the Desktop with the name `powershell-script.ps1`.
 
 ```powershell
 $info = @{
@@ -160,6 +167,8 @@ Invoke-WebRequest -Uri 'http://<YOUR_IP_HERE>:8080' `
 | --- |
 | The `powershell-script.ps1` script collects the system’s hostname, current user, and IP address, converts the data to JSON, and sends it via an HTTP POST request to a specified server  |
 
+### Knowledge Check
+
 **Knowledge Check/Quiz Question 1:** *Format knowledge check questions like this. Your knowledge check questions are best placed at the point where the student would be able to answer them as they follow along with the lab guide. Quizzes should typically be contained to a single phase or section of the lab.*
 
 **Knowledge Check/Quiz Question 2:** *What port (number) must the webserver use to receive the data sent by the PowerShell script above?*
@@ -171,34 +180,35 @@ Examples might include:
 - What version of XZ Utils is running on the compromised system (x.x.xx)?
 - How many users currently exist in the domain (number)?
 - What is the IP address of the sender in the packet capture?
-- Which of the commandline tools introduced in the lab can be used to parse binary files?
+- Which of the command-line tools introduced in the lab can be used to parse binary files?
 
 Bad question types include:
 
-- What tool did you just run? (Doesn't assess anything of value.)
-- Why did we just run that tool? (Too open-ended.)
-- What is the name of the log file used 7 steps ago? (Not relevant to the current task. Does the answer need the extension, the full path, is it case-sensitive, etc.?)
-  - A better question: "Which log file receives information regarding SSH login attempts?" (Script should allow for auth.log *and* auth as the possible answers. This question leads them to the next answer.)
-  - A follow-up question: "What is the username that attempted to login via SSH?"
-
-2. (**Windows**) Open PowerShell from the Start Menu.
-
-3. (**Windows**, **Command Prompt**) Run the PowerShell script that you created in the previous steps with the following command:
-
-```
-./powershell-script.ps1
-```
-
-```markdown
-<!-- This a great place to include a screenshot of the output of the command.
-     The screenshot helps the student affirm the process completed as intended. -->
-```
-
-**Knowledge Check/Quiz Question 3:** *Answer some question regarding the results of the script.*
+- What tool did you just run? _(Doesn't assess anything of value.)_
+- Why did we just run that tool? _(Too open-ended.)_
+- What is the name of the log file used 7 steps ago? _(Not relevant to the current task. Does the answer need the extension, the full path, is it case-sensitive, etc.?)_
+    - A better question: "Which log file receives information regarding SSH login attempts?" _(Script should allow for auth.log *and* auth as the possible answers. This question leads them to the next answer.)_
+    - A follow-up question: "What is the username that attempted to login via SSH?"
 
 ### The Third Task of Phase/Section 1
 
 Continue to provide instruction and explanation on what the student is expected to complete in Phase/Section 1 of your lab. Write instructions using numbered lists to show step-by-step actions.
+
+2. (**Windows**) Open PowerShell from the Start Menu.
+
+3. (**Windows**, **PowerShell**) Run the PowerShell script that you created in the previous steps with the following command:
+
+    ```powershell
+    ./powershell-script.ps1
+    ```
+
+    ```markdown
+    <!-- This a great place to include another screenshot of the output of
+         the command.  The screenshot helps the student confirm the process
+         completed as intended. -->
+    ```
+
+**Knowledge Check/Quiz Question 3:** *Answer a question regarding the results of the script.*
 
 ## Phase/Section 2: Second Phase/Section of Skilling Lab X
 
@@ -221,9 +231,9 @@ Grading checks should be used to ensure a student has completed some task succes
 
 Examples might include:
 
-- Was a firewall rule implemented correctly? (The check should try to connect to the specific port/service and validate whether the connection makes it through or fails.)
-- Did the student properly configure the Apache website? (The check should try to retrieve the contents from the proper `URL:port` with a wget or curl and validate that the content is accessible and accurate.)
-- Strive to check the "thing" that gets to the heart of what you asked the student to do, but also ensures the correct state before moving on.
+- Was a firewall rule implemented correctly? _(The check should try to connect to the specific port/service and validate whether the connection makes it through or fails.)_
+- Did the student properly configure the Apache website? _(The check should try to retrieve the contents from the proper `URL:port` with a wget or curl and validate that the content is accessible and accurate.)_
+- Strive to check the "thing" that gets to the heart of what you asked the student to do, but also ensures the correct state before proceeding to the next task.
 
 ## Repeat the above structure as needed until you have a complete lab guide
 
@@ -235,8 +245,8 @@ By completing this lab you...
 
 During this lab, you:
 
-- Performed *some* action using *some* technique.
-- Achieved *some* goal by applying *some* skill.
+- Performed *an action* using *a technique*.
+- Achieved *a goal* by applying *a skill*.
 
 | 💡 TIP |
 | --- |
@@ -260,7 +270,27 @@ And those things are important because...
 
 ## Why Markdown?
 
-Markdown is a lightweight markup language that allows authors – *anyone* – to add simple formatting elements to plaintext documents. More information about Markdown, including the syntax guide, [can be found here](https://markdownguide.org).
+Markdown is a lightweight markup language that allows anyone to add simple formatting elements to plaintext documents. More information about Markdown, including the syntax guide, [can be found here](https://markdownguide.org).
+
+## Styling Text
+
+|Style|When to Use|Example|
+|---|---|---|
+|**bold**|Useful for directing the user's attention. Perfect for emphasizing system names, application credentials, and buttons where the user should click.|"Click the **File** menu and then ***Open&hellip;***."|
+|*italics*|Can be used for more subtle callouts, like tabs in an interface, terms that are being defined for the first time, and other emphasis that doesn't need bold.|"A _pod_ is the smallest schedulable unit in Kubernetes."|
+|`code`| Used for terminal commands, filenames and paths, and source code using three backticks (<code>```</code>).|"Run `kubectl get pods` to display a list of running pods."|
+
+## In-line Icons
+
+Icons that can be used in-line to emphasize or make clear actions the reader should take.
+
+| Symbol | HTML Entity | Name              |
+| ------ | ----------- | ----------------- |
+| ☰      | `&#9776;`   | "Hamburger Menu"  |
+| ⋮      | `&#8942;`   | Vertical Ellipsis |
+| ✅      | `&#9989;`   | Green Checkmark   |
+| ❌      | `&#10060;`  | Red X             |
+| 🚫      | `&#128683;` | Not Permitted     |
 
 ## Icon-styled Callouts Using HTML Entities
 
@@ -278,8 +308,6 @@ Use these callouts to point out important information, warnings, tips, and actio
 | --------------------------------------------------------------------- |
 | This is a general reminder or note you want students to keep in mind. |
 
----
-
 ### ⚠️ WARNING
 
 ```markdown
@@ -291,8 +319,6 @@ Use these callouts to point out important information, warnings, tips, and actio
 | ⚠️ WARNING                                                    |
 | ------------------------------------------------------------ |
 | This is a warning about something that could break, fail, or cause a problem. |
-
----
 
 ### 🔍 INFORMATION
 
@@ -306,8 +332,6 @@ Use these callouts to point out important information, warnings, tips, and actio
 | ----------------------------------------------------------- |
 | This is important background information or context directly related to the lab content. |
 
----
-
 ### 🔧 TOOL TIP
 
 ```markdown
@@ -319,8 +343,6 @@ Use these callouts to point out important information, warnings, tips, and actio
 | 🔧 TOOL TIP                                                   |
 | ------------------------------------------------------------ |
 | This is a helpful trick or setting related to the tool the student is using in the lab. It can also be used to provide additional details about a specific tool or script being used. |
-
----
 
 ### 🧩 KEY POINT
 
@@ -334,8 +356,6 @@ Use these callouts to point out important information, warnings, tips, and actio
 | ---------------------------------------------------------- |
 | Highlight a key piece of information that "puts the pieces" together in the lab. |
 
----
-
 ### 📌 REMEMBER
 
 ```markdown
@@ -348,30 +368,14 @@ Use these callouts to point out important information, warnings, tips, and actio
 | ----------------------------------------------------------- |
 | This is an important item to keep handy or use again later in the lab. |
 
----
-
-### 🗭 Recall // Remember
+### 💭 RECALL
 
 ```markdown
-| &#128493; Recall |
+| &#128493; RECALL |
 |---|
 | This would be used to reference back to something taught previously whether it be earlier in the lab or a previous lab |
 ```
 
-| 🗭 Remember |
+| 💭 RECALL |
 |---|
 | This would be used to reference back to something taught previously whether it be earlier in the lab or a previous lab |
-
----
-
-### In-line Icons
-
-Icons that can be used in-line to emphasize or make clear actions the reader should take.
-
-| Symbol | HTML Entity | Name              |
-| ------ | ----------- | ----------------- |
-| ☰      | `&#9776;`   | "Hamburger Menu"  |
-| ⋮      | `&#8942;`   | Vertical Ellipsis |
-| ✅      | `&#9989;`   | Green Checkmark   |
-| ❌      | `&#10060;`  | Red X             |
-| 🚫      | `&#128683;` | Not Permitted     |
