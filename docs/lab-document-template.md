@@ -1,6 +1,6 @@
-# Group Project Lab Template
+# Lab Document Template
 
-You will write a lab document as part of the [AIA Group Project](syllabus/#group-project). This template serves as a style guide for authoring this document for your project.
+You will write a lab document as part of the [AIA Group Project](syllabus.md#group-project). This template serves as a style guide for authoring this document for your project.
 
 ---
 
