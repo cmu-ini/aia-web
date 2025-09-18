@@ -2,6 +2,8 @@
 
 You will write a lab document as part of the [AIA Group Project](syllabus.md#group-project). This template serves as a style guide for authoring this document for your project.
 
+Also, [here is the source Markdown for this template](https://raw.githubusercontent.com/cmu-ini/aia-web/refs/heads/main/docs/lab-document-template.md) for importing into TopoMojo directly.
+
 ---
 
 ## The Impossible Lab
