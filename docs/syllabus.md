@@ -184,8 +184,8 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | _SPRING BREAK_      | _Mar 3_  | _No class_                                                     |                                                         |
 | **8** (Herr, Kaar)  | Mar 10   | _Group Project Check-in_                                       | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
 | **9** (Herr, Kaar)  | Mar 17   | Cloud Security                                                 | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10**              | Mar 24   | TA Lecture&mdash;Topic TBD <br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
-| **11** (Kashyap)    | Mar 31   | No Formal Lecture/Free Class Period                                              | **Exercise:** Operation Aurora Part 2                   |
+| **10** (Kashyap)    | Mar 24   | TA Lecture&mdash;Topic TBD <br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
+| **11**              | Mar 31   | No Formal Lecture/Free Class Period <br>_Peer Reviews Due_     | **Exercise:** Operation Aurora Part 2                   |
 | **12**              | Apr 7    | _Group Projects Due_<br/>Group Project Presentations           | **HW10:** This week's group project labs                |
 | **13**              | Apr 14   | Group Project Presentations                                    | **HW11:** Group project labs                            |
 | **14**              | Apr 21   | Group Project Presentations                                    | **HW12:** Group project labs                            |
