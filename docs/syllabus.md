@@ -130,16 +130,16 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Assignment                                                                             |   Points |
 | -------------------------------------------------------------------------------------- | -------: |
-| Enterprise Information Security Part 1                                                 |       50 |
-| Enterprise Information Security Part 2                                                 |       50 |
-| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1                   |       50 |
-| TRAC Part 2                                                                            |       50 |
-| XYZ Bank Team Exercise Part 1                                                          |       60 |
-| XYZ Bank Part 2                                                                        |       60 |
-| Operation Aurora Capstone Exercise Part 1                                              |       75 |
-| Operation Aurora Part 2                                                                |       75 |
+| Enterprise Information Security Part 1                                                 |       40 |
+| Enterprise Information Security Part 2                                                 |       40 |
+| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1                   |       40 |
+| TRAC Part 2                                                                            |       40 |
+| XYZ Bank Team Exercise Part 1                                                          |       45 |
+| XYZ Bank Part 2                                                                        |       45 |
+| Operation Aurora Capstone Exercise Part 1                                              |       50 |
+| Operation Aurora Part 2                                                                |       50 |
 | In-Class Kahoot! Quizzes (10 pts x 9 weeks of the course&mdash;drop lowest quiz score) |       80 |
-| Homework Assignments (10 pts x 12 weeks of the course)                                 |      120 |
+| Homework Assignments (10 pts x 12 weeks of the course)                                 |      240 |
 | Group Projects                                                                         |      300 |
 | Group Project Attendance                                                               |       30 |
 | **TOTAL**                                                                              | **1000** |
