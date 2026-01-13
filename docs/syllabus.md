@@ -277,3 +277,11 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 6. Submission for credit of previously completed graded work in a second course without first obtaining permission from the instructor(s) of the second course. In the case of concurrent courses, permission to submit the same work for credit in two courses must be obtained from the instructors of both courses."
 
 **_This policy applies, in all respects, to this course._**
+
+**Gradescope**
+
+In this course, we will be using Gradescope (a tool accessed through our Canvas course) to grade group exercise assignments. Gradescope allows us to manage one submission pr team/group, as Canvas does not allow for group quizzes.
+
+During the semester, students will use Gradescope to submit group quiz assignments. To access Gradescope, simply log on to our course’s Canvas site and click on the Gradescope assignment link(s). All Gradescope assignments will be in the form of quiz questions with multiple choice, select all that apply, fill in the blank, short free form responses, and file uploads type questions. All submissions will be reviewed by the TA before scores are finalized.
+
+This website (www.cmu.edu/teaching/gradescope/) provides students with more information on using Gradescope and how to submit assignments online to Gradescope. 
