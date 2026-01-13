@@ -278,7 +278,7 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 
 **_This policy applies, in all respects, to this course._**
 
-**Gradescope**
+### Gradescope
 
 In this course, we will be using Gradescope (a tool accessed through our Canvas course) to grade group exercise assignments. Gradescope allows us to manage one submission pr team/group, as Canvas does not allow for group quizzes.
 
