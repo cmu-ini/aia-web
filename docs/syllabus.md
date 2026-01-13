@@ -4,7 +4,7 @@
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Fall 2025_
+_Spring 2026_
 
 ## Course Details
 
@@ -16,8 +16,8 @@ _Fall 2025_
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
 | **Prerequisites**        | None                                                                                                                      |
-| **Class Schedule**       | Tuesdays @ 4:00-6:20pm ET, 1:00-3:20pm PT                                                                                 |
-| **Class Location**       | CIC 1201 (Pittsburgh), B23 211 (Silicon Valley)                                                                           |
+| **Class Schedule**       | Tuesdays @ 4:00-6:50pm ET, 1:00-3:50pm PT                                                                                 |
+| **Class Location**       | INI DEC (Pittsburgh), B23 107 (Silicon Valley)                                                                           |
 | **Textbook Information** | N/A                                                                                                                       |
 
 ## Course Overview
@@ -130,16 +130,16 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Assignment                                                                             |   Points |
 | -------------------------------------------------------------------------------------- | -------: |
-| Enterprise Information Security Part 1                                                 |       50 |
-| Enterprise Information Security Part 2                                                 |       50 |
-| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1                   |       50 |
-| TRAC Part 2                                                                            |       50 |
-| XYZ Bank Team Exercise Part 1                                                          |       60 |
-| XYZ Bank Part 2                                                                        |       60 |
-| Operation Aurora Capstone Exercise Part 1                                              |       75 |
-| Operation Aurora Part 2                                                                |       75 |
+| Enterprise Information Security Part 1                                                 |       40 |
+| Enterprise Information Security Part 2                                                 |       40 |
+| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1                   |       40 |
+| TRAC Part 2                                                                            |       40 |
+| XYZ Bank Team Exercise Part 1                                                          |       45 |
+| XYZ Bank Part 2                                                                        |       45 |
+| Operation Aurora Capstone Exercise Part 1                                              |       50 |
+| Operation Aurora Part 2                                                                |       50 |
 | In-Class Kahoot! Quizzes (10 pts x 9 weeks of the course&mdash;drop lowest quiz score) |       80 |
-| Homework Assignments (10 pts x 12 weeks of the course)                                 |      120 |
+| Homework Assignments (10 pts x 12 weeks of the course)                                 |      240 |
 | Group Projects                                                                         |      300 |
 | Group Project Attendance                                                               |       30 |
 | **TOTAL**                                                                              | **1000** |
@@ -174,21 +174,21 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #             | Date     | Class    |                    Exercise/Homework                                       |
 | ------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **1** (Herr, Kaar)  | Aug 26   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
-| **2** (Herr)        | Sep 2    | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
-| **3** (Herr)        | Sep 9    | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Sep 16   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Herr)        | Sep 23   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr)        | Sep 30   | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Kaar)        | Oct 7    | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
-| _FALL BREAK_        | _Oct 14_ | _No class_                                                      |                                                         |
-| **8** (Herr, Kaar)  | Oct 21   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr, Kaar)  | Oct 28   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10**              | _Nov 4_  | _NO CLASS &mdash; [DEMOCRACY DAY](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)_<br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
-| **11** (Kashyap)    | Nov 11   | TA Lecture&mdash;Topic TBD             | **Exercise:** Operation Aurora Part 2                   |
-| **12**              | Nov 18   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
-| **13**              | Nov 25   | Group Project Presentations                                     | **HW11:** Group project labs                            |
-| **14**              | Dec 2    | Group Project Presentations                                     | **HW12:** Group project labs                            |
+| **1** (Herr, Kaar)  | Jan 13   | Course Overview<br/>Hacking Lecture                            | **HW1:** TopoMojo Labs                                  |
+| **2** (Herr)        | Jan 20   | Data Security                                                  | **HW2:** EIS Prep Labs 1-6                              |
+| **3** (Herr)        | Jan 27   | Host Security                                                  | **HW3:** EIS Prep Labs 7-11                             |
+| **4** (Herr)        | Feb 3    | Network Security<br/>_Group Project Proposals Due_             | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Herr)        | Feb 10   | Monitoring, Detection & Response                               | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr)        | Feb 17   | Cyber Forensics Fundamentals                                   | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Kaar)        | Feb 24   | Cyber Forensics Special Topics                                 | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| _SPRING BREAK_      | _Mar 3_  | _No class_                                                     |                                                         |
+| **8** (Herr, Kaar)  | Mar 10   | _Group Project Check-in_                                       | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
+| **9** (Herr, Kaar)  | Mar 17   | Cloud Security                                                 | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| **10** (Kashyap)    | Mar 24   | TA Lecture&mdash;Topic TBD <br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
+| **11**              | Mar 31   | No Formal Lecture/Free Class Period <br>_Peer Reviews Due_     | **Exercise:** Operation Aurora Part 2                   |
+| **12**              | Apr 7    | _Group Projects Due_<br/>Group Project Presentations           | **HW10:** This week's group project labs                |
+| **13**              | Apr 14   | Group Project Presentations                                    | **HW11:** Group project labs                            |
+| **14**              | Apr 21   | Group Project Presentations                                    | **HW12:** Group project labs                            |
 
 ## Course Policies
 
@@ -277,3 +277,11 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 6. Submission for credit of previously completed graded work in a second course without first obtaining permission from the instructor(s) of the second course. In the case of concurrent courses, permission to submit the same work for credit in two courses must be obtained from the instructors of both courses."
 
 **_This policy applies, in all respects, to this course._**
+
+### Gradescope
+
+In this course, we will be using Gradescope (a tool accessed through our Canvas course) to grade group exercise assignments. Gradescope allows us to manage one submission pr team/group, as Canvas does not allow for group quizzes.
+
+During the semester, students will use Gradescope to submit group quiz assignments. To access Gradescope, simply log on to our course’s Canvas site and click on the Gradescope assignment link(s). All Gradescope assignments will be in the form of quiz questions with multiple choice, select all that apply, fill in the blank, short free form responses, and file uploads type questions. All submissions will be reviewed by the TA before scores are finalized.
+
+This website (www.cmu.edu/teaching/gradescope/) provides students with more information on using Gradescope and how to submit assignments online to Gradescope. 
