@@ -17,7 +17,8 @@
         "ghcr.io/devcontainers/features/github-cli:1": {},
         "ghcr.io/jsburckhardt/devcontainer-features/just:1": {},	
         "./features/claude": {},
-        "./features/codex": {}
+        "./features/codex": {},
+        "./features/image-processing": {}
 	},
 	"customizations": {
 		"vscode": {
