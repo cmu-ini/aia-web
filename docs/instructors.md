@@ -12,7 +12,7 @@ Chris Herr is a senior engineer and team lead for the Cyber Workforce Developmen
 
 ## Matt Kaar
 
-_Adjunct Instructor_  
+_Adjunct Instructor &amp; [CyFIR Track](https://www.cmu.edu/ini/academics/cyfir.html) Coordinator_  
 <mailto:mkaar@andrew.cmu.edu>
 
 Matt Kaar is a senior engineer and team lead at Carnegie Mellon University's Software Engineering Institute (SEI), with 20+ years building cyber exercise environments and cloud infrastructure. He serves as cloud technical lead for the Integrated Multinational Cyber Information Sharing and Training Environment (IMCITE), a Department of War platform preparing U.S. foreign mission partners for offensive and defensive cyber operations. Earlier, Matt architected government competition and exercise programs: at CISA, he helped develop the President's Cup Cybersecurity Competition, an annual event recognizing the federal government's top cybersecurity practitioners; at U.S. Cyber Command, he built the large-scale virtual environments behind the first-of-their-kind CYBER FLAG and CYBER GUARD joint exercises, delivering realistic training to thousands of U.S. and partner-nation personnel. He has presented this work at Black Hat USA, AFCEA TechNet Indo-Pacific, and the NICE Conference & Expo. He has also held information security roles at The MITRE Corporation, the Federal Aviation Administration, and Internet Security Systems. Matt holds a B.S. in Computer Science from Georgia Tech and an M.S. in Information Security Technology and Management from the Information Networking Institute at Carnegie Mellon. He lives in Reston, Virginia, with his wife and two daughters who are growing up way too fast.

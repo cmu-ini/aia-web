@@ -3,14 +3,14 @@
 
 # Syllabus
 
-**14-761: Applied Information Assurance**
+**14-761: Applied Information Assurance**  
 _Fall 2026_
 
 ## Course Details
 
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| **Instructors**          | Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)></br> Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)> |
+| **Instructors**          | Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)></br> Matt Kaar <[mkaar@andrew.cmu.edu](mailto:mkaar@andrew.cmu.edu)> |
 | **Teaching Assistant**   | Caleb Sannes <[csannes@andrew.cmu.edu](mailto:csannes@andrew.cmu.edu)>                                              |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
