@@ -3,21 +3,21 @@
 
 # Syllabus
 
-**14-761: Applied Information Assurance**
-_Spring 2026_
+**14-761: Applied Information Assurance**  
+_Fall 2026_
 
 ## Course Details
 
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| **Instructors**          | Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)></br> Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)> |
-| **Teaching Assistant**   | Pavan R. Kashyap <[pavanram@andrew.cmu.edu](mailto:pavanram@andrew.cmu.edu)>                                              |
+| **Instructors**          | Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)></br> Matt Kaar <[mkaar@andrew.cmu.edu](mailto:mkaar@andrew.cmu.edu)> |
+| **Teaching Assistant**   | Caleb Sannes <[csannes@andrew.cmu.edu](mailto:csannes@andrew.cmu.edu)>                                              |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
 | **Prerequisites**        | None                                                                                                                      |
-| **Class Schedule**       | Tuesdays @ 4:00-6:50pm ET, 1:00-3:50pm PT                                                                                 |
-| **Class Location**       | INI DEC (Pittsburgh), B23 107 (Silicon Valley)                                                                           |
+| **Class Schedule**       | Tuesdays @ 4:00-6:20pm ET, 1:00-3:20pm PT                                                                                 |
+| **Class Location**       | CIC 1201 (Pittsburgh), B23 211 (Silicon Valley)                                                                           |
 | **Textbook Information** | N/A                                                                                                                       |
 
 ## Course Overview
@@ -28,7 +28,7 @@ This course focuses on practical applications of Information Assurance (IA) and 
 
 At the end of the course, students should be able to:
 
-- Define Defense-in Depth as it applies to Information Assurance
+- Define Defense-in-Depth as it applies to Information Assurance
 - List and describe nine Foundations of Information Assurance
 - Identify and execute common threats to IT Enterprises
 - List common host security best practices and implement controls
@@ -49,7 +49,7 @@ Students will individually complete hands-on labs as homework. These labs are de
 
 ### Weekly Quizzes
 
-The instructors will use 10-question quizzes at the beginning of class (weeks 2-10) to evaluate student understanding of the homework assignments and lecture content. To make these assessments more enjoyable for the students, we will use the Kahoot game-based web/mobile application to administer the quizzes. To get credit and enable grading, each student must use their **Andrew ID** for Nicknames for each Kahoot quiz. Five bonus points will be given to students finishing in first place on each quiz. If the winning number of correct answers is the same across both sections (Pittsburgh and Silicon Valley), bonus points will be earned by one student in each section that week. Also, the lowest quiz score will be dropped for each student.
+The instructors will use 10-question quizzes at the beginning of class (weeks 2-9 and 11) to evaluate student understanding of the homework assignments and lecture content. To make these assessments more enjoyable for the students, we will use the Kahoot game-based web/mobile application to administer the quizzes. To get credit and enable grading, each student must use their **Andrew ID** for Nicknames for each Kahoot quiz. Five bonus points will be given to students finishing in first place on each quiz. If the winning number of correct answers is the same across both sections (Pittsburgh and Silicon Valley), bonus points will be earned by one student in each section that week. Also, the lowest quiz score will be dropped for each student.
 
 ### Team Exercises
 
@@ -86,7 +86,7 @@ flowchart LR
 
     - A _References_ section at the end of the document must include citations in [IEEE format](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf). For example, citing this syllabus would look like this [1].
 
-        > [1] C. Herr, M. Kaar. "14-761: Applied Information Assurance syllabus," August, 2024. [Online]. Available: <https://www.andrew.cmu.edu/course/14-761/syllabus/>. [Accessed Aug. 27, 2024].
+        > [1] C. Herr, M. Kaar. "14-761: Applied Information Assurance syllabus," August, 2026. [Online]. Available: <https://www.andrew.cmu.edu/course/14-761/syllabus/>. [Accessed Aug. 25, 2026].
 
     !!! warning "Plagiarism Warning!"
 
@@ -174,21 +174,21 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #             | Date     | Class    |                    Exercise/Homework                                       |
 | ------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **1** (Herr, Kaar)  | Jan 13   | Course Overview<br/>Hacking Lecture                            | **HW1:** TopoMojo Labs                                  |
-| **2** (Herr)        | Jan 20   | Data Security                                                  | **HW2:** EIS Prep Labs 1-6                              |
-| **3** (Herr)        | Jan 27   | Host Security                                                  | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Feb 3    | Network Security<br/>_Group Project Proposals Due_             | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Herr)        | Feb 10   | Monitoring, Detection & Response                               | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr)        | Feb 17   | Cyber Forensics Fundamentals                                   | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Kaar)        | Feb 24   | Cyber Forensics Special Topics                                 | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
-| _SPRING BREAK_      | _Mar 3_  | _No class_                                                     |                                                         |
-| **8** (Herr, Kaar)  | Mar 10   | _Group Project Check-in_                                       | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr, Kaar)  | Mar 17   | Cloud Security                                                 | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10** (Kashyap)    | Mar 24   | TA Lecture&mdash;Topic TBD <br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
-| **11**              | Mar 31   | No Formal Lecture/Free Class Period <br>_Peer Reviews Due_     | **Exercise:** Operation Aurora Part 2                   |
-| **12**              | Apr 7    | _Group Projects Due_<br/>Group Project Presentations           | **HW10:** This week's group project labs                |
-| **13**              | Apr 14   | Group Project Presentations                                    | **HW11:** Group project labs                            |
-| **14**              | Apr 21   | Group Project Presentations                                    | **HW12:** Group project labs                            |
+| **1** (Herr, Kaar)  | Aug 25   | Course Overview<br/>Hacking Lecture                            | **HW1:** TopoMojo Labs                                  |
+| **2** (Herr)        | Sep 1    | Data Security                                                  | **HW2:** EIS Prep Labs 1-6                              |
+| **3** (Herr)        | Sep 8    | Host Security                                                  | **HW3:** EIS Prep Labs 7-11                             |
+| **4** (Herr)        | Sep 15   | Network Security<br/>_Group Project Proposals Due_             | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Herr)        | Sep 22   | Monitoring, Detection & Response                               | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr)        | Sep 29   | Cyber Forensics Fundamentals                                   | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Kaar)        | Oct 6    | Cyber Forensics Special Topics                                 | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| _FALL BREAK_        | _Oct 13_ | _No class_                                                     |                                                         |
+| **8** (Herr, Kaar)  | Oct 20   | _Group Project Check-in_                                       | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
+| **9** (Herr, Kaar)  | Oct 27   | Cloud Security                                                 | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| **10**              | Nov 3    | No Class/_[Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives-democracy-day)_ <br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
+| **11** (Sannes)     | Nov 10   | TA Lecture&mdash;Topic TBD <br>_Peer Reviews Due_              | **Exercise:** Operation Aurora Part 2                   |
+| **12**              | Nov 17   | _Group Projects Due_<br/>Group Project Presentations           | **HW10:** This week's group project labs                |
+| **13**              | Nov 24   | Group Project Presentations                                    | **HW11:** Group project labs                            |
+| **14**              | Dec 1    | Group Project Presentations                                    | **HW12:** Group project labs                            |
 
 ## Course Policies
 
