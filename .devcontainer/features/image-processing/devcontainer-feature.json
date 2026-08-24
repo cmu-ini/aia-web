@@ -1,0 +1,6 @@
+{
+    "id": "image-processing",
+    "version": "0.1.0",
+    "name": "Image processing tools",
+    "description": "Installs apt packages for Python image processing"
+}

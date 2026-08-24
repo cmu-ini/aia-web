@@ -1,5 +1,8 @@
-FROM mcr.microsoft.com/devcontainers/python:3.14
+FROM mcr.microsoft.com/devcontainers/python:3.14-trixie
 
-# Install image processing prerequisites
-RUN apt-get update
-RUN apt-get install -y libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
+# Custom certificate support
+COPY ./certs /usr/local/share/ca-certificates/custom/
+RUN find /usr/local/share/ca-certificates/custom -type f ! -name '*.crt' -delete \
+    && if find /usr/local/share/ca-certificates/custom -type f -name '*.crt' -print -quit | grep -q .; then \
+        update-ca-certificates; \
+    fi
