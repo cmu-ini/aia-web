@@ -284,4 +284,4 @@ In this course, we will be using Gradescope (a tool accessed through our Canvas 
 
 During the semester, students will use Gradescope to submit group quiz assignments. To access Gradescope, simply log on to our course’s Canvas site and click on the Gradescope assignment link(s). All Gradescope assignments will be in the form of quiz questions with multiple choice, select all that apply, fill in the blank, short free form responses, and file uploads type questions. All submissions will be reviewed by the TA before scores are finalized.
 
-[This website](www.cmu.edu/teaching/gradescope/) provides students with more information on using Gradescope and how to submit assignments online to Gradescope.
+[This website](https://www.cmu.edu/teaching/gradescope/) provides students with more information on using Gradescope and how to submit assignments online to Gradescope.
