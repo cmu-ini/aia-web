@@ -172,23 +172,23 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 ## Course Calendar
 
-| Week #             | Date     | Class    |                    Exercise/Homework                                       |
-| ------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **1** (Herr, Kaar)  | Aug 25   | Course Overview<br/>Hacking Lecture                            | **HW1:** TopoMojo Labs                                  |
-| **2** (Herr)        | Sep 1    | Data Security                                                  | **HW2:** EIS Prep Labs 1-6                              |
-| **3** (Herr)        | Sep 8    | Host Security                                                  | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Sep 15   | Network Security<br/>_Group Project Proposals Due_             | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Herr)        | Sep 22   | Monitoring, Detection & Response                               | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr)        | Sep 29   | Cyber Forensics Fundamentals                                   | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Kaar)        | Oct 6    | Cyber Forensics Special Topics                                 | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
-| _FALL BREAK_        | _Oct 13_ | _No class_                                                     |                                                         |
-| **8** (Herr, Kaar)  | Oct 20   | _Group Project Check-in_                                       | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr, Kaar)  | Oct 27   | Cloud Security                                                 | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10**              | Nov 3    | No Class/_[Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives-democracy-day)_ <br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
-| **11** (Sannes)     | Nov 10   | TA Lecture&mdash;Topic TBD <br>_Peer Reviews Due_              | **Exercise:** Operation Aurora Part 2                   |
-| **12**              | Nov 17   | _Group Projects Due_<br/>Group Project Presentations           | **HW10:** This week's group project labs                |
-| **13**              | Nov 24   | Group Project Presentations                                    | **HW11:** Group project labs                            |
-| **14**              | Dec 1    | Group Project Presentations                                    | **HW12:** Group project labs                            |
+| Week #             | Date     | Class                                                          | Team Exercise                     | Homework                                 |
+| ------------------ | -------- | -------------------------------------------------------------- | --------------------------------- | ---------------------------------------- |
+| **1** (Herr, Kaar) | Aug 25   | Course Overview<br/>Hacking Lecture                            |                                   | **HW1:** TopoMojo Labs                   |
+| **2** (Herr)       | Sep 1    | Data Security                                                  |                                   | **HW2:** EIS Prep Labs 1-6               |
+| **3** (Herr)       | Sep 8    | Host Security                                                  |                                   | **HW3:** EIS Prep Labs 7-11              |
+| **4** (Herr)       | Sep 15   | Network Security<br/>_Group Project Proposals Due_             | EIS Exercise Part 1               | **HW4:** TopoMojo                        |
+| **5** (Herr)       | Sep 22   | Monitoring, Detection & Response                               | EIS Exercise Part 2               | **HW5:** TopoMojo                        |
+| **6** (Herr)       | Sep 29   | Cyber Forensics Fundamentals                                   | TRAC Part 1                       | **HW6:** TopoMojo                        |
+| **7** (Kaar)       | Oct 6    | Cyber Forensics Special Topics                                 | TRAC Part 2                       | **HW7:** TopoMojo                        |
+| _FALL BREAK_       | _Oct 13_ | _No class_                                                     |                                   |                                          |
+| **8** (Herr, Kaar) | Oct 20   | _Group Project Check-in_                                       | XYZ Bank Part 1                   | **HW8:** TopoMojo                        |
+| **9** (Herr, Kaar) | Oct 27   | Cloud Security                                                 | XYZ Bank Part 2                   | **HW9:** TopoMojo                        |
+| **10**             | Nov 3    | No Class/_[Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives-democracy-day)_ <br>_Project Peer Reviews Assigned_ | Operation Aurora Part 1 |                          |
+| **11** (Sannes)    | Nov 10   | TA Lecture&mdash;Topic TBD <br>_Peer Reviews Due_              | Operation Aurora Part 2           |                                          |
+| **12**             | Nov 17   | _Group Projects Due_<br/>Group Project Presentations           |                                   | **HW10:** This week's group project labs |
+| **13**             | Nov 24   | Group Project Presentations                                    |                                   | **HW11:** Group project labs             |
+| **14**             | Dec 1    | Group Project Presentations                                    |                                   | **HW12:** Group project labs             |
 
 ## Course Policies
 
